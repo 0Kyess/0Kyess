@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/96/cd/7e/96cd7e329caf7040d9f6ddfea710ebcd.gif"  />
+<img align="right" height="200" src="https://github.com/0Kyess/0Kyess/blob/main/Dog%20gif.gif"  />
 
 ###
 
