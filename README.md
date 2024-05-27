@@ -40,6 +40,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/0Kyess/0Kyess/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/0Kyess/0Kyess/output/snake.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F443534263309510188%2F&psig=AOvVaw1qDPpG0_rIWLYzXinyIGDb&ust=1716938221996000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCNiO7Nb7roYDFQAAAAAdAAAAABAD)" alt="Snake animation" />
 
 ###
