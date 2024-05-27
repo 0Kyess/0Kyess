@@ -40,6 +40,4 @@
 
 <br clear="both">
 
-<img src="https://i.pinimg.com/originals/96/cd/7e/96cd7e329caf7040d9f6ddfea710ebcd.gif" "alt = dog gif" />
 
-###
